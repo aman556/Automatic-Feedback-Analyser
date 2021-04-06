@@ -1,1 +1,1 @@
-# Automatic-Feedback-Analyser is an application that converts audio file of the client conversation and then first converts it into text using IBM Watson API speech to text and then analyzes the text data using IBM Watson tone analyzer API.
+# Automated-Feedback-System is an application that converts audio file of the client conversation and then first converts it into text using IBM Watson API speech to text and then analyzes the text data using IBM Watson tone analyzer API.
